@@ -2,7 +2,7 @@
 
 A clean, fast, and super smooth calculator that feels exactly like the native iPhone or Android calculator app.
 
-**Live Demo:** https://your-username.github.io/calculator *(replace with your link after deploying)*
+**Live Demo:** https://vishnukumar750.github.io/Basic_Calculator/ *(replace with your link after deploying)*
 
 ![Calculator Preview](./assets/calculator.png)
 
